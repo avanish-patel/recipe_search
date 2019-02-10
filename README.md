@@ -1,6 +1,6 @@
 # Recipe Search App
 
-![video](recipe_app.gif)
+![video](recipe_search.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
